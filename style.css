@@ -1,0 +1,25 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image: url("bg1.jpeg");
+background-position:center;
+background-size:cover;
+}
+
+#First_Canvas{
+border:10px ridge;
+background-color: aliceblue;
+}
+span{
+font-size: 19px;
+}
+body{
+cursor: pointer;
+}
+input{
+margin-right:20px;
+}
